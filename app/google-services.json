@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1054251710792",
+    "firebase_url": "https://waterlevelindicator-ba42a.firebaseio.com",
+    "project_id": "waterlevelindicator-ba42a",
+    "storage_bucket": "waterlevelindicator-ba42a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054251710792:android:aa54e38a35d302f6b21b7d",
+        "android_client_info": {
+          "package_name": "com.youdontknow.waterlevel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054251710792-vfu4p2bpr9e59thghv59lrnejqlrqnfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLtmGuSQySbVfXXxDfqCIsv6TRUzyMU4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054251710792-vfu4p2bpr9e59thghv59lrnejqlrqnfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
